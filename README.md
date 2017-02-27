@@ -8,7 +8,7 @@ https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git
 
 PS : Si vous rencontrez des problèmes à pusher votre code, essayez de repartir de zéro :
 - Sauvegardez le fichier que vous vouliez ajouter sur le serveur dans un autre répertoire
-- Supprimez tout ce qui se trouvait dans le répertoire Git (NB : le répertoire Git est "Document" ici) 
+- Supprimez tout ce qui se trouvait dans le répertoire Git (NB : le répertoire Git est "Documents" ici, celui qui contient le dossier .git) 
 - Recommencez les démarches expliquées dans le sujet (sans oublier au début de commencer par un : git init).
 - Ajoutez à nouveau votre fichier dans votre projet local et retentez à nouveau un push
 
